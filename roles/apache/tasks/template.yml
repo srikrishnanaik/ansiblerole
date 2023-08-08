@@ -1,0 +1,3 @@
+---
+- name: Template example
+  template: src=templates/template.html.j2 dest=/var/www/html/template.html
